@@ -223,7 +223,7 @@
     "nodegit": "0.22.1",
     "object-invariant-test-helper": "0.1.1",
     "open": "0.0.5",
-    "react-hot-loader": "4.3.2",
+    "react-hot-loader": "4.3.6",
     "redux-mock-store": "1.5.1",
     "salinity": "0.0.8",
     "serialport": "6.2.0",
