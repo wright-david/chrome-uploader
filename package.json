@@ -56,7 +56,7 @@
     "plist": "3.0.1",
     "pl2303": "0.0.2",
     "prop-types": "15.6.1",
-    "react": "16.4.0",
+    "react": "16.6.0",
     "react-dom": "16.4.0",
     "react-redux": "5.0.7",
     "react-router-dom": "4.3.1",
