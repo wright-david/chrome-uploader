@@ -188,7 +188,7 @@
     "chai": "4.1.2",
     "concurrently": "3.5.1",
     "cross-env": "5.1.6",
-    "css-loader": "0.28.11",
+    "css-loader": "1.0.1",
     "devtron": "1.4.0",
     "difflet": "1.0.1",
     "drivelist": "6.2.2",
