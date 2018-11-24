@@ -222,7 +222,7 @@
     "less-loader": "4.1.0",
     "minimist": "1.2.0",
     "mocha": "5.2.0",
-    "node-hid": "0.7.2",
+    "node-hid": "0.7.4",
     "nodegit": "0.22.1",
     "object-invariant-test-helper": "0.1.1",
     "open": "0.0.5",
